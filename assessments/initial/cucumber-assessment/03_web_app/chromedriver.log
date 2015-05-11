@@ -1,0 +1,14 @@
+[0511/140821:INFO:chromedriver_server.cc(76)] Handling request: /session {"desiredCapabilities":{"browserName":"chrome","version":"","platform":"ANY","javascriptEnabled":true,"cssSelectorsEnabled":true,"takesScreenshot":false,"nativeEvents":false,"rotatable":false,"chromeOptions":{"detach":true},"chrome.detach":true}}
+[0511/140821:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"","status":13,"value":{"message":"unknown error: unrecognized chrome option: detach\n  (Driver info: chromedriver=0.7,platform=Windows NT 6.2 x86_64)"}}
+[0511/140821:INFO:chromedriver_server.cc(76)] Handling request: /shutdown 
+[0511/140821:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"","status":0,"value":null}
+[0511/140821:INFO:chromedriver_server.cc(76)] Handling request: /shutdown 
+[0511/140821:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"","status":0,"value":null}
+[0511/140821:INFO:chromedriver_server.cc(76)] Handling request: /shutdown 
+[0511/140821:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"","status":0,"value":null}
+[0511/140821:INFO:chromedriver_server.cc(76)] Handling request: /shutdown 
+[0511/140821:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"","status":0,"value":null}
+[0511/140821:INFO:chromedriver_server.cc(76)] Handling request: /shutdown 
+[0511/140821:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"","status":0,"value":null}
+[0511/140821:INFO:chromedriver_server.cc(76)] Handling request: /shutdown 
+[0511/140821:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"","status":0,"value":null}
