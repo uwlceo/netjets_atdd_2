@@ -10,7 +10,7 @@ end
 
 task :compile do
   puts 'compile'
-  x =5/0
+  x=5/0
   puts x
 end
 
