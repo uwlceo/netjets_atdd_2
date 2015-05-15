@@ -1,5 +1,6 @@
 require 'locale'
 require 'test/unit'
+require 'page-object'
 
 When(/^I access Wikipedia for my language$/) do
   @browser.goto "http://wikipedia.com"
@@ -27,3 +28,4 @@ end
 And(/^I am shown names of (\d+) recently deceased individuals on the dashboard$/) do |arg1|
   pending # express the regexp above with the code you wish you had
 end
+

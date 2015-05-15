@@ -1,3 +1,6 @@
+require 'test/unit/assertions'
+include Test::Unit::Assertions
+
 $:.unshift(File.dirname(__FILE__) + '/../../lib')
 require 'calculator'
 
@@ -24,7 +27,7 @@ Given /^I have done some arithmetic$/ do
   @calc.memadd
 end
 
-When /^I have __$/ do
+When /^I have cleared the screen$/ do
   @calc.clear
 end
 
