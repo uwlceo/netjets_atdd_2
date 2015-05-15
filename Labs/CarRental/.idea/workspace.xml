@@ -16,11 +16,11 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/CarRental@Search_for_Car_with_One_Search_Criteria__CarRental__3_.coverage" NAME="Search for Car with One Search Criteria: CarRental (3) Coverage Results" MODIFIED="1431618526830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CarRental" />
     <SUITE FILE_PATH="coverage/CarRental@Search_for_Car_with_Multiple_Search_Criteria__CarRental.coverage" NAME="Search for Car with Multiple Search Criteria: CarRental Coverage Results" MODIFIED="1431546937911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Features" MODULE_NAME="CarRental" />
-    <SUITE FILE_PATH="coverage/CarRental@Search_for_Car_with_One_Search_Criteria__CarRental__2_.coverage" NAME="Search for Car with One Search Criteria: CarRental (2) Coverage Results" MODIFIED="1431615927860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CarRental" />
-    <SUITE FILE_PATH="coverage/CarRental@Search_for_Car_with_One_Search_Criteria__CarRental__1_.coverage" NAME="Search for Car with One Search Criteria: CarRental (1) Coverage Results" MODIFIED="1431613272643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CarRental" />
     <SUITE FILE_PATH="coverage/CarRental@Reserve_Car__CarRental.coverage" NAME="Reserve Car: CarRental Coverage Results" MODIFIED="1431548600232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CarRental" />
-    <SUITE FILE_PATH="coverage/CarRental@Search_for_Car_with_One_Search_Criteria__CarRental.coverage" NAME="Search for Car with One Search Criteria: CarRental Coverage Results" MODIFIED="1431617385698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CarRental" />
+    <SUITE FILE_PATH="coverage/CarRental@Search_for_Car_with_One_Search_Criteria__CarRental__1_.coverage" NAME="Search for Car with One Search Criteria: CarRental (1) Coverage Results" MODIFIED="1431613272643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CarRental" />
+    <SUITE FILE_PATH="coverage/CarRental@Search_for_Car_with_One_Search_Criteria__CarRental__2_.coverage" NAME="Search for Car with One Search Criteria: CarRental (2) Coverage Results" MODIFIED="1431615927860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CarRental" />
     <SUITE FILE_PATH="coverage/CarRental@Search_for_Car_with_One_Search_Criteria__CarRental__5_.coverage" NAME="Search for Car with One Search Criteria: CarRental (5) Coverage Results" MODIFIED="1431612878104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CarRental" />
+    <SUITE FILE_PATH="coverage/CarRental@Search_for_Car_with_One_Search_Criteria__CarRental.coverage" NAME="Search for Car with One Search Criteria: CarRental Coverage Results" MODIFIED="1431617385698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CarRental" />
     <SUITE FILE_PATH="coverage/CarRental@Cancel_Reservation__CarRental__2_.coverage" NAME="Cancel Reservation: CarRental (2) Coverage Results" MODIFIED="1431548685169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CarRental" />
     <SUITE FILE_PATH="coverage/CarRental@Search_for_Car_with_One_Search_Criteria__CarRental__4_.coverage" NAME="Search for Car with One Search Criteria: CarRental (4) Coverage Results" MODIFIED="1431626328853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CarRental" />
     <SUITE FILE_PATH="coverage/CarRental@Cancel_Reservation__CarRental.coverage" NAME="Cancel Reservation: CarRental Coverage Results" MODIFIED="1431547776736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="CarRental" />
@@ -41,7 +41,7 @@
       <file leaf-file-name="search_car.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/search_car.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+            <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="612">
               <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
               <folding />
             </state>
@@ -51,7 +51,7 @@
       <file leaf-file-name="rental_app.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/pages/rental_app.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+            <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="221">
               <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
               <folding />
             </state>
@@ -61,7 +61,7 @@
       <file leaf-file-name="rental_car_search.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/pages/rental_car_search.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+            <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="238">
               <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
               <folding />
             </state>
@@ -71,7 +71,7 @@
       <file leaf-file-name="my_steps.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/step_definitions/my_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1887">
+            <state vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="1887">
               <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
               <folding />
             </state>
@@ -81,7 +81,6 @@
       <file leaf-file-name="rental_interactions.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features/workflows/rental_interactions.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.2142857" vertical-offset="0" max-vertical-offset="1037">
               <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>

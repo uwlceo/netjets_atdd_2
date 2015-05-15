@@ -50,7 +50,6 @@ Then(/^I am shown all available cars based on the multiple search criteria$/) do
 end
 
 
-
 When(/^I search for cars using no search criteria$/) do
   pending
   #Go to main page
@@ -58,9 +57,9 @@ When(/^I search for cars using no search criteria$/) do
   #Enter no search criteria
   #Search
 
-  #goto_rental_app
+  goto_rental_app
 
-  #select_new_customer
+  select_new_customer
 
   search_no_criteria
 
@@ -71,6 +70,7 @@ Then(/^I am shown empty search results$/) do
   #Make sure there are no results
   expect(search_results).to be_empty
 end
+
 #
 #
 # Given(/^I have done a search$/) do
