@@ -9,8 +9,8 @@ Cucumber::Rake::Task.new(:features) do |t|
 end
 
 task :compile do
-  puts 'compiling'
-  x = 5/0
+  puts 'compile'
+  x =5/0
   puts x
 end
 
